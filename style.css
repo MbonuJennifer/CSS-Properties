@@ -9,6 +9,26 @@ body{
     overflow-x: hidden;
     font-family: 'Merriweather Sans', sans-serif;
 }
+.fSection, .sSection, .tSection{
+    font-size: 14px;
+    font-weight: bold;
+    font-style: italic;
+    margin: 1rem 5rem;
+    padding: 1rem 5rem;
+    
+}
+.sSection{
+    color: red;
+
+}
+.fSection{
+    color: green;
+
+}
+.tSection{
+    color: blue;
+
+}
 
 td, th {
   border: 1px solid #dddddd;
